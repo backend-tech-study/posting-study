@@ -25,7 +25,7 @@
 
 ## 📑Convention
 
-- 브랜치 week#n_guthubID
+- 브랜치 week#n/guthubID
 - 폴더 구조
     - week#n (ex. `week1`)
         - `githubID.md` (ex. `LeeJuOh.md`)
